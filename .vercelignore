@@ -1,0 +1,5 @@
+.claude
+serve.py
+.env*
+.vercel
+.gitignore
